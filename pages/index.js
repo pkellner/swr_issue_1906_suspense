@@ -32,7 +32,7 @@ export default function Example() {
           </button>
         );
       })}
-      {/*<Profile />*/}
+      <Profile />
     </Suspense>
   );
 }
